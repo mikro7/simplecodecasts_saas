@@ -4,6 +4,9 @@ Coder Manual Project Application
 Subscription-based web application
 http://codermanual.com
 
+My page at heroku:
+https://desolate-savannah-1916.herokuapp.com/?_c9_id=livepreview0&_c9_host=https://ide.c9.io
+
 Things you may want to cover:
 
 * Ruby version
